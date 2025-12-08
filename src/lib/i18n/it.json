@@ -1,6 +1,6 @@
 {  
 "common": {  
-"required": "\*",  
+"required": "*",  
 "cancel": "Annulla",  
 "create": "Crea",  
 "edit": "Modifica",  
@@ -91,7 +91,7 @@
 "youCanOnlyEditYourOwnEvents": "Puoi modificare solo i tuoi eventi",  
 "youDoNotHavePermissionToDelete": "Non hai il permesso di eliminare questo evento",  
 "eventIdAndUserIdRequired": "Sono richiesti ID evento e ID utente",  
-"guestsWillBeAddedAs": "Gli ospiti saranno aggiunti come "Ospite #1 di {name}", "Ospite #2 di {name}", ecc.",  
+"guestsWillBeAddedAs": "Gli ospiti saranno aggiunti come \"Ospite #1 di {name}\", \"Ospite #2 di {name}\", ecc.", 
 "yourNamePlaceholder": "Il tuo nome",  
 "atTime": "alle"  
 },  
@@ -193,7 +193,7 @@
 "addGuestsLabel": "Aggiungi ospiti",  
 "numberOfGuestsLabel": "Numero di ospiti",  
 "numberOfGuestsPlaceholder": "Inserisci il numero di ospiti",  
-"guestsWillBeAddedAs": "Gli ospiti saranno aggiunti come "Ospite #1 di {name}", "Ospite #2 di {name}", ecc.",  
+"guestsWillBeAddedAs": "Gli ospiti saranno aggiunti come \"Ospite #1 di {name}\", \"Ospite #2 di {name}\", ecc.",  
 "joinEventButton": "Partecipa all'evento",  
 "joinEventWithGuests": "Partecipa all'evento + {count} ospite{plural}",  
 "adding": "Aggiunta...",  
@@ -221,7 +221,7 @@
 "noEventsYetDescription": "Non hai ancora creato nessun evento. Inizia creando il tuo primo evento!",  
 "createYourFirstEventButton": "Crea il tuo primo evento",  
 "deleteEventTitle": "Elimina evento",  
-"deleteEventDescription": "Sei sicuro di voler eliminare "{eventName}"? Questa azione non può essere annullata e rimuoverà tutti gli RSVP.",  
+"deleteEventDescription": "Sei sicuro di voler eliminare \"{eventName}\"? Questa azione non può essere annullata e rimuoverà tutti gli RSVP.",  
 "deleteButton": "Elimina",  
 "viewEventAriaLabel": "Visualizza evento",  
 "editEventAriaLabel": "Modifica evento",  
